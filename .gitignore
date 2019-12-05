@@ -1,0 +1,4 @@
+# Project exclude paths
+/zuul-test1/target/
+/zuul-test2/target/
+/zuuldemo1/target/
